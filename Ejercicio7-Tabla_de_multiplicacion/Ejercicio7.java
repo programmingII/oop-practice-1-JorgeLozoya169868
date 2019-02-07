@@ -1,7 +1,7 @@
 /*
 *@author JorgeLozoyaAcosta 169868
 *@date feb/07/2019
-*@start 9:
+*@start 9:11
 */
 /*
 * 7. Write a Java program that takes a number as 
