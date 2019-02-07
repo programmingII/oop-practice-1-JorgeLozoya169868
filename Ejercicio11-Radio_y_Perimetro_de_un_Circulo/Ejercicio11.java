@@ -1,7 +1,7 @@
 /*
-* @Nombre Jorge Lozoya Acosta 169868	
-* @Dia Feb/07/2019
-* @Hora 12:18AM
+* Nombre Jorge Lozoya Acosta 169868	
+* Dia Feb/07/2019
+* Hora 12:18AM
 */
 /*
 * 11. Write a Java program to print the area and perimeter of a circle. PI=3.1415
