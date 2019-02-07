@@ -1,7 +1,7 @@
 /*
-* @author JorgeLozoyaAcosta 169868	
-* @date Feb/07/2019
-* @Start 9:43AM
+* Nombre: JorgeLozoyaAcosta 169868	
+* Dia: Feb/07/2019
+* Hora: 9:43AM
 */
 /*
 *10. Write a Java program to 
