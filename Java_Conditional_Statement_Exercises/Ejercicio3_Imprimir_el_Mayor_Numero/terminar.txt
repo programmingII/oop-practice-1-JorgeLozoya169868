@@ -1,0 +1,28 @@
+/*
+* Nombre: Jorge Lozoya Acosta
+* Dia: 12/02/2019
+* Hora: 1:43 PM
+ JCSE3 Java Conditional Statement Exercises 3
+*/
+/*
+3. Take three numbers from the user and print the greatest number
+*/
+import java.util.Scanner;
+
+public class JCSE3{
+
+	public static void main(String[] args){
+	Scanner nums = new Scanner(System.in);
+	
+//Pedir al usuario tres numeros diferentes de tipo entero
+
+	System.out.println("Favor de ingresar el primer numero");
+		int num1 = nums.nextInt();	
+	System.out.println("Favor de ingresar el segundo numero");
+		int num2 = nums.nextInt();
+	System.out.println("Favor de ingresar el tercer numero");	
+		int num3 = nums.nextInt();
+
+	if()
+}
+}
