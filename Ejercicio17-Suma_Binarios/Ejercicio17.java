@@ -11,7 +11,7 @@ import java.util.Scanner; //Libreria que se utiliza para recibir las entradas de
 
 public class Ejercicio17{
   	
-	public static void main(String args[]){
+	public static void main(String[] args){
   
   Scanner binarios = new Scanner(System.in); // Se crea un objeto tipo Scanner para recibir las entradas dadas en el sistema para el usuario
   	
