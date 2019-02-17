@@ -1,7 +1,7 @@
 /*
 * Nombre: Jorge Lozoya Acosta
 * Dia: 17/02/2019
-* Hora: 11:47 PM
+* Hora: 11:47 AM
 */
 /*
 24. Write a Java program to convert a binary number to a Octal number.
