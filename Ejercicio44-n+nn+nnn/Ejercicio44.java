@@ -1,7 +1,7 @@
 /*
 * Nombre: Jorge Lozoya Acosta
-* Dia: 17/02/2019
-* Hora: 11:48 AM
+* Dia: 25/02/2019
+* Hora: 8:48 AM
 */
 /*
 44. Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn.
