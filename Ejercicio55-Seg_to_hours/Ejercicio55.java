@@ -1,7 +1,7 @@
 /*
 * Nombre: Jorge Lozoya Acosta 169868
 * Dia: 26/02/2019
-* Hora: 08:28 AM
+* Hora: 08:39 AM
 */
 /*
 55. Write a Java program to convert seconds to hour, minute and seconds.
